@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574157264 source:d:\programs\Календарь\main.cpp
+	<bits/stdc++.h>
+
+1573592782 source:d:\programs\Календарь\файл.cpp
+	<bits/stdc++.h>
+	<vector>
+	<fstream>
+

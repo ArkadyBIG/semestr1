@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573393037 source:d:\programs\ai cross\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+	<fstream>
+	<math.h>
+	<cmath>
+	<windows.h>
+	<conio.h>
+	<vector>
+

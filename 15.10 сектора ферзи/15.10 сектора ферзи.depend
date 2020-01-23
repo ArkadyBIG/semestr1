@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571209323 source:d:\programs\15.10 сектора ферзи\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
